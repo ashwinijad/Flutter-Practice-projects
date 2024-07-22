@@ -36,7 +36,7 @@ const questions = [
     ],
   ),
   QuizQuestion(
-    'What happens if you change data in a StatelessWidget?',
+    'What happenss if you change data in a StatelessWidget?',
     [
       'The UI is not updated',
       'The UI is updated',
